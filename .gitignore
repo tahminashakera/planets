@@ -1,7 +1,10 @@
  
 *.dat
+!a.dat
+results/
 
-results
+
+
 
 
 
